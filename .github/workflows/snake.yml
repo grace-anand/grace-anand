@@ -14,12 +14,14 @@ jobs:
     
       - uses: actions/checkout@v2
       
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v2.1.0
         with:
-          github_user_name: arpanaditya
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.grace-anand }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
           
       - run: git status
           
@@ -27,7 +29,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GHUB_TOKEN }}
-          branch: master
+          branch: main
           force: true
           
       - uses: crazy-max/ghaction-github-pages@v2.1.3
