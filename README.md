@@ -8,10 +8,13 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=880085&center=true&width=435&lines=I'm+a+self+taught+full-stack+web+dev.;I+love+exploring+new+things.;I+enjoy+solving+problems.;I+am+keen+on+learning+new+tech.;I+thrive+in+a+collaborative+environment." alt="Typing SVG" />
 </p>
 
-![Programmer](https://user-images.githubusercontent.com/95082903/205471779-95120e09-6bf8-4fc7-a3d8-faa696daa89e.png)
+<img src="https://user-images.githubusercontent.com/95082903/205471779-95120e09-6bf8-4fc7-a3d8-faa696daa89e.png" alt="Programmer">
 
-[![](https://visitcount.itsvg.in/api?id=grace-anand&icon=0&color=11)](https://visitcount.itsvg.in)
----
+<!-- https://visitcount.itsvg.in -->
+<p align="center">
+   <img src="https://visitcount.itsvg.in/api?id=grace-anand&icon=0&color=11" alt="profile-views">
+</p>
+
 
 ## 🌐 Connect with me on:
 <p align="center">
