@@ -10,25 +10,72 @@
 
 ![Programmer](https://user-images.githubusercontent.com/95082903/205471779-95120e09-6bf8-4fc7-a3d8-faa696daa89e.png)
 
+[![](https://visitcount.itsvg.in/api?id=grace-anand&icon=0&color=11)](https://visitcount.itsvg.in)
+---
 
 ## 🌐 Connect with me on:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/an_and__r) 
+<p align="center">
+  <a href="https://instagram.com/an_and__r" target="_blank">
+     <img src="https://user-images.githubusercontent.com/95082903/208309007-20341fc3-2b27-4ce2-951c-2044d6473419.png" alt="Instagram" height="40" width=40>
+  </a>
+  <a href="https://www.linkedin.com/in/anand-r-67b18925a" target="_blank">
+     <img src="https://user-images.githubusercontent.com/95082903/208309035-3485e246-64c2-434c-baac-551989d137fd.png" alt="Linked in" height="40" width=40>
+  </a>
+  <a href="https://www.facebook.com/people/Anand-R/100079562641112/" target="_blank">
+     <img src="https://user-images.githubusercontent.com/95082903/208309323-f4a37ced-80e0-497f-9712-bce1d03e0ba5.png" alt="Facebook" height="40" width=40>
+  </a>
+  <a href="https://twitter.com/graceanand99" target="_blank">
+     <img src="https://user-images.githubusercontent.com/95082903/208309173-b263b337-5b09-4a39-a1ff-b1d40ed7a62f.png" alt="Twitter" height="40" width=40>
+  </a>
+</p>
+
 
 # 💻 Tech Stack:
 <p align="center"> 
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 	<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> </a><a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>   </a> 	
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/95082903/208308179-06ddb2e7-8a6e-47cf-96db-cb62f3f3c71f.png" alt="next" width="40" height="40"/> 
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/95082903/208308615-2418627e-2a08-49fc-91b1-4b53dfe98bd0.png" alt="vue" width="40" height="40"/> 
+  </a>
+  <a href="https://nuxtjs.org/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/95082903/208308479-abbb1116-a127-42e1-86cf-6434cc0a204f.png" alt="nuxt" width="50" height="40"/> 
+  </a>
+  <a href="https://rubyonrails.org/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/95082903/208308718-325d70cd-e004-4430-b7da-ad11ea2c99a3.png" alt="Ruby on rails" width="80" height="50"/> 
+  </a>
 </p>
 
 # 📊 GitHub Stats:
+<p align="center">
+  <!-- ![](https://github-readme-stats.vercel.app/api?username=grace-anand&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)
+  <br/> -->
+  
+<!--   https://git.io/streak-stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=grace-anand&theme=violet-punch&border_radius=6.2&background=00000000&border=E296FF&stroke=880085&ring=880085&currStreakNum=4EC251&sideNums=880085&currStreakLabel=880085&sideLabels=880085&dates=FFD700&fire=FFD700" alt="streak-stats" />
+  
+  <!-- <br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=grace-anand&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=grace-anand&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=grace-anand&theme=violet-punch&border_radius=6.2&background=00000000&border=E296FF&stroke=880085&ring=880085&currStreakNum=4EC251&sideNums=880085&currStreakLabel=880085&sideLabels=880085&dates=FFD700&fire=FFD700)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=grace-anand&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=grace-anand&icon=0&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ![GitHub Snake Light](https://github.com/grace-anand/grace-anand/blob/output/github-contribution-grid-snake-coloured.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/grace-anand/grace-anand/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
