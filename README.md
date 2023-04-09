@@ -15,8 +15,9 @@
    <img src="https://visitcount.itsvg.in/api?id=grace-anand&icon=0&color=11" alt="profile-views">
 </p>
 
-
-## 🌐 Connect with me on:
+<h3 align="center">
+Connect with me
+</h3>
 <p align="center">
   <a href="https://instagram.com/an_and__r" target="_blank">
      <img src="https://user-images.githubusercontent.com/95082903/208309007-20341fc3-2b27-4ce2-951c-2044d6473419.png" alt="Instagram" height="40" width=40>
@@ -33,7 +34,9 @@
 </p>
 
 
-# 💻 Tech Stack:
+<h2 align="center">
+Tech Stack
+</h2>
 <p align="center"> 
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -69,7 +72,9 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
+<h1 align="center">
+GitHub Stats
+</h1>
 <p align="center">
   <!-- ![](https://github-readme-stats.vercel.app/api?username=grace-anand&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)
   <br/> -->
