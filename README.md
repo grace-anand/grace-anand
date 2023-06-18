@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/grace-anand">
-    <img width="160" alt="Anand" src="https://user-images.githubusercontent.com/95082903/205440358-875f4c38-f444-4898-9d85-371b1fbc02f7.png">
+    <img width="160" alt="Anand" src="https://github.com/grace-anand/grace-anand/assets/95082903/2f225754-324c-4fc6-8ff5-76cc7a24cf6f">
   </a>
 </p>
 <p align="center">
