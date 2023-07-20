@@ -61,14 +61,14 @@ Tech Stack
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://user-images.githubusercontent.com/95082903/208308179-06ddb2e7-8a6e-47cf-96db-cb62f3f3c71f.png" alt="next" width="40" height="40"/> 
   </a>
+  <a href="https://astro.build/" target="_blank">
+    <img src="https://github.com/grace-anand/grace-anand/assets/95082903/523e10f5-2798-47ca-8f83-74d7725a1c35" alt="Astro" width="50" height="50"/> 
+  </a>
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://user-images.githubusercontent.com/95082903/208308615-2418627e-2a08-49fc-91b1-4b53dfe98bd0.png" alt="vue" width="40" height="40"/> 
   </a>
   <a href="https://nuxtjs.org/" target="_blank">
     <img src="https://user-images.githubusercontent.com/95082903/208308479-abbb1116-a127-42e1-86cf-6434cc0a204f.png" alt="nuxt" width="50" height="40"/> 
-  </a>
-  <a href="https://rubyonrails.org/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/95082903/208308718-325d70cd-e004-4430-b7da-ad11ea2c99a3.png" alt="Ruby on rails" width="80" height="50"/> 
   </a>
 </p>
 
