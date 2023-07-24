@@ -62,7 +62,7 @@ Tech Stack
     <img src="https://user-images.githubusercontent.com/95082903/208308179-06ddb2e7-8a6e-47cf-96db-cb62f3f3c71f.png" alt="next" width="40" height="40"/> 
   </a>
   <a href="https://astro.build/" target="_blank">
-    <img src="https://github.com/grace-anand/grace-anand/blob/output/astro-logo.png" alt="Astro" width="50" height="50"/> 
+    <img src="https://github.com/grace-anand/grace-anand/blob/assets/astro-logo.png" alt="Astro" width="50" height="50"/> 
   </a>
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://user-images.githubusercontent.com/95082903/208308615-2418627e-2a08-49fc-91b1-4b53dfe98bd0.png" alt="vue" width="40" height="40"/> 
