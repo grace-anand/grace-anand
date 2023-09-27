@@ -80,7 +80,8 @@ GitHub Stats
   <br/> -->
   
 <!--   https://git.io/streak-stats -->
-  <img src="https://streak-stats.demolab.com?user=grace-anand&theme=shadow-purple&sideNums=EBB522&dates=EB1E08" alt="streak-stats" />
+  <img src="https://github.com/grace-anand/grace-anand/assets/95082903/b8d85179-d509-4ea9-90ec-d080e77dbb32" alt="streak-stats" />
+
   <!-- <br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=grace-anand&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 </p>
