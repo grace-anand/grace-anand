@@ -80,7 +80,7 @@ GitHub Stats
   <br/> -->
   
 <!--   https://git.io/streak-stats -->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=grace-anand&card_width=600&background=EB545400&currStreakLabel=CA59FF&currStreakNum=FFAB55&sideNums=EBB521&dates=F6FB01&sideLabels=D458EB&fire=BE61EB&ring=E143EB" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=grace-anand&card_width=600&background=EB545400&currStreakLabel=CA59FF&currStreakNum=FFAB55&sideNums=EBB521&dates=F6FB01&sideLabels=D458EB&fire=BE61EB&ring=E143EB" alt="GitHub Streak" />
 
   <!-- <br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=grace-anand&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
